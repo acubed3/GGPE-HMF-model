@@ -1,2 +1,5 @@
 # GGPE-HMF-model
-GGPE solver and related stuff for HMF model
+
+## Notations and conventions
+
+## Functions and code style
